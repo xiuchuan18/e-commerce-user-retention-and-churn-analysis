@@ -264,13 +264,13 @@ ecommerce-user-retention-analysis
 
 Python
 
-pandas
-numpy
-scikit-learn
-lightgbm
-matplotlib
-seaborn
-streamlit
+pandas;
+numpy;
+scikit-learn;
+lightgbm;
+matplotlib;
+seaborn;
+streamlit.
 
 ---
 
